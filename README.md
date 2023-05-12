@@ -31,9 +31,9 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
                                                                  
 <h2> Log into Virtual Machines <h2/>    
 
-<b> First create a Windows VM and an Ubuntu VM on Azure. This tutorial assumes you have already created those two virtual machines. Need to create Virtual Machines?
+<b> First create a Windows VM and an Ubuntu VM on Azure. This tutorial assumes you have already created those two virtual machines. Need to create Virtual Machines? </P>
                                                                  
-<a> href="https://github.com/AsiaPonder001/Resource-Groups-and-V-Ms"> C L I C K  H E R E!</a>
+<a>href="https://github.com/AsiaPonder001/Resource-Groups-and-V-Ms"> C L I C K  H E R E! </a>
 
 
 
