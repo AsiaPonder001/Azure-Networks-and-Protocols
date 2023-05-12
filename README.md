@@ -30,7 +30,9 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 <h2>Pre-Requisites</h2>
                                                                  
-<h2> On how to deploy a VM with Azure Click here  <h2/>                                                             
+<h2> Log into Virtual Machines (Windows) <h2/>    
+
+<b> First create a Windows VM and an Ubuntu VM on Azure. This tutorial assumes you have already created those two virtual machines. Need to create a Resource Group and Virtual Machines Click here
 
 
 
