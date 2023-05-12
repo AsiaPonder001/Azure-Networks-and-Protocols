@@ -35,11 +35,6 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
                                                                  
 <a href="https://github.com/AsiaPonder001/Resource-Groups-and-V-Ms">CLICK HERE</a>
 
-<br/>
-
-Log into
-
-<p>
 <img src="https://i.imgur.com/xocmOjp.png">
 </p>
 
