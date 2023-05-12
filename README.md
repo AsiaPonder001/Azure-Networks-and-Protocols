@@ -12,6 +12,12 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 - RDP (Remote Desktop Protocol; Port 3389)
 <br />
 
+<b> You will need a VM with Windows and another VM with Ubuntu. This tutorial assumes you have already created those two virtual machines. Need to create Virtual Machines?
+                                                                 
+<a href="https://github.com/AsiaPonder001/Resource-Groups-and-V-Ms">CLICK HERE</a>
+
+<img src="https://i.imgur.com/xocmOjp.png">
+</p>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -26,17 +32,9 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Linux/Ubuntu Server 20.04
+- Linux/Ubuntu Server 20.04 
 
-                                                                 
-<h2> Log into Virtual Machines <h2/>    
 
-<b> You will need a VM with Windows and another VM with Ubuntu. This tutorial assumes you have already created those two virtual machines. Need to create Virtual Machines?
-                                                                 
-<a href="https://github.com/AsiaPonder001/Resource-Groups-and-V-Ms">CLICK HERE</a>
-
-<img src="https://i.imgur.com/xocmOjp.png">
-</p>
 
 <h2> Sign into Windows VM </h2>  
 <p>
