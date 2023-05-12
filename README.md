@@ -26,7 +26,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Linux/Ubuntu Server 20.04
 
                                                                  
 <h2> Log into Virtual Machines <h2/>    
