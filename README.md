@@ -15,13 +15,11 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines) abbreviated VM. VMs are used to install the software that is used to analyze the traffic being sent.
+- Microsoft Azure Virtual Machines
 
-- Remote Desktop Protocol (RDP) is used to connect to the virtual machines and it is one type of traffic observed in wireshark. 
+- Remote Desktop Protocol
 
-- Various Command-Line Tools are used such as Command Prompt for ping commands and Powershell to ssh into the second virtual machine.
-
-- Network Protocols (SSH, RDH, DNS, ICMP, DHCP) are observed in wireshark as both VMs communicate with each other under various commands.
+- Network Protocols (SSH, RDH, DNS, ICMP, DHCP)
 
 - Wireshark is the network traffic analyzer used to observe the different types of traffic being sent between both VMs.
 
@@ -31,7 +29,8 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 - Ubuntu Server 20.04
 
 <h2>Pre-Requisites</h2>
-<h2>Creating the virtual machines<h2/>                                                             
+                                                                 
+<h2> On how to deploy a VM with Azure Click here  <h2/>                                                             
 
 
 
