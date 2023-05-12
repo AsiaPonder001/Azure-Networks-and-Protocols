@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/4Cm6yiK.png alt="Traffic Examination"/>  
+<img src="https://i.imgur.com/wJ6cg4s.png">
 </p>
 
 <h1>Azure Virtual Machines Traffic Inspection</h1>
