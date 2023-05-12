@@ -35,10 +35,9 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 - Linux/Ubuntu Server 20.04 
 
 
-
-<h2> Sign into Windows VM </h2>  
-<p>
-<img src=" .png">
+<h2> Sign into the Windows VM </h2>  
+<b> Copy Public ip address and paste it into the RDP connection </b>
+<img src="https://i.imgur.com/K79BJvW.png">
 
 Step 4 - After logging in to the VM, navigate to Microsoft Edge and install Wireshark 
 
