@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/RTZL0Ru.png alt="Traffic Examination"/>  
+<img src="https://imgur.com/4Cm6yiK.png alt="Traffic Examination"/>  
 </p>
 
 <h1>Azure Virtual Machines Traffic Inspection (March 2023)</h1>
