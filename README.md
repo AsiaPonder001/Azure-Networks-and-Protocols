@@ -40,7 +40,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 Log into
 
 <p>
-<img src="https://imgur.com/pzsx4Xn.png alt"Rescource Group"/?
+<img src="https://i.imgur.com/xocmOjp.png">
 </p>
 
 <p>
