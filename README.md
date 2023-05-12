@@ -38,10 +38,9 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <img src="https://i.imgur.com/xocmOjp.png">
 </p>
 
+<h2> Sign into Windows VM </h2>  
 <p>
-<img src="https://imgur.com/Hz2NxI2.png alt"Rescource Group"/?
-</p>
-<br />
+<img src=" .png">
 
 Step 4 - After logging in to the VM, navigate to Microsoft Edge and install Wireshark 
 
