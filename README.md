@@ -28,7 +28,6 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
-<h2>Pre-Requisites</h2>
                                                                  
 <h2> Log into Virtual Machines (Windows) <h2/>    
 
