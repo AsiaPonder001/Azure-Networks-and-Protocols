@@ -3,7 +3,7 @@
 </p>
 
 <h1>Azure Virtual Machines Traffic Inspection</h1>
-Hello! In this tutorial I observe and explore several network traffic protocols between two Azure Virtual Machines with Wireshark. This excercise helps those who want to learn about network protocols and how to observe network traffic such as: </p>                                                               
+Hello! In this tutorial I observe and explore several network traffic protocols between two Azure Virtual Machines with Wireshark. This excercise helps those who want to learn how to observe network traffic and protocols such as: </p>                                                               
 
 - DNS (Domain Name System; Port 53)
 - SSH (secure shell ; Port 22)
