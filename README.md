@@ -2,8 +2,14 @@
 <img src="https://imgur.com/4Cm6yiK.png alt="Traffic Examination"/>  
 </p>
 
-<h1>Azure Virtual Machines Traffic Inspection (March 2023)</h1>
-In this tutorial I analyze and observe various network traffic protocols between Azure Virtual Machines with Wireshark. This is a great excercise for anyone who seeks to learn about and observe network traffic in a controlled environment.  
+<h1>Azure Virtual Machines Traffic Inspection</h1>
+Hello! In this tutorial I observe and explore several network traffic protocols between two Azure Virtual Machines with Wireshark. This excercise helps those who want to learn about network protocols and how to observe network traffic such as: </p>                                                               
+
+- DNS
+- SSH
+- DHCP
+- ICMP
+- RDP
 <br />
 
 
