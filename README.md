@@ -83,7 +83,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <b>Filter for SSH (Secure Shell) traffic </b>
 
 - (1)Type in ssh
-- (2) Open Powershell in administrator
+- (2) Open Powershell as an administrator
 - (3) type command: <b>ssh (username of vm)@private ip address</b>
 - (4) That will prompt for you to put in the password
 - (5) check back to observe ssh traffic in Wireshark
