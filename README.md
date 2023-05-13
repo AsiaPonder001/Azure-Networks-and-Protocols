@@ -108,9 +108,9 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <br />
 <br />
 
-<b>Change the Inbound firewall rule to deny ICMP traffic
+<b>Change the Inbound firewall rule to deny ICMP traffic </b>
 
-<a>In the Azure Portal to go your LinuxVm > Click on Networking > Click on Add inbound security rule</a></b>
+<a>In the Azure Portal to go your LinuxVm > Click on Networking > Click on Add inbound security rule</a>
 
 - Select ICMP
 - Select Deny
