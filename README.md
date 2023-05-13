@@ -98,10 +98,9 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 - Type in icmp
 - Open CMD and perpetually ping LinuxVM with the command (ping -t(private ip address)
-- Observe the constant pinging and the responses from LinuxVM on CMD
-- Check back to observe icmp traffic in Wireshark
+- Observe the constant pinging
 
-<It it responds with REQUEST then that means your firewall has ICMP blocked>
+<p> but there is NO traffic. It's pinging request timed out. which means your firewall has ICMP blocked </p>
 
 <br />
 <p>
