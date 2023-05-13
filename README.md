@@ -45,6 +45,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 <img src="https://i.imgur.com/It0Ez7A.png">
 <p>
+<img sc="i.https://imgur.com/IBt3KUh.png">
 <img src="https://imgur.com/clrmTgG.png alt"Rescource Group"/?
 </p>
 
