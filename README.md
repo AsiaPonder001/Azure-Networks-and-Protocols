@@ -75,7 +75,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 - Check back to observe dns traffic in Wireshark
 
 <p>
-<img src=" .png">
+<img src="https://i.imgur.com/KsiNQuO.png">
 </p>
 <br />
 
