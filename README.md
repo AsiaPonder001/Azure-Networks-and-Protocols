@@ -48,7 +48,6 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <img src="i.https://imgur.com/IBt3KUh.png">
 <img src="https://i.imgur.com/7PlTD8N.png">
 </p>
-<br /> 
 
 <h2>Protocols and Observations </h2>
 <br/>
@@ -57,6 +56,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <img src="https://i.imgur.com/xaqENca.png">
 
 <br/>
+<p></p>
 
 <b> Filter for DHCP (Dynamic Host Control Protocol) traffic observation using Wireshark </b>
 - Type in dhcp in Wireshark
