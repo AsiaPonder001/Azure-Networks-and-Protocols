@@ -72,7 +72,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 - Type in dns in Wireshark
 - Open Command line as an administrator and type in the nslook up for a website (ex: nslookup www.google.com)
-- Check back to observe traffic in Wireshark
+- Check back to observe dns traffic in Wireshark
 
 <p>
 <img src="https://imgur.com/NQQTI7C.png " height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -80,7 +80,13 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <br />
 
 
-Below is SSH (Secure Shell) traffic observation using Wireshark
+<b>Filter for SSH (Secure Shell) traffic </b>
+
+- Type in ssh
+- Open Powershell
+- type command: <b>ssh (username of vm)@private ip address</b>
+- That will prompt for you to put in the password
+- check back to observe ssh traffic in Wireshark
 
 <p>
 <img src="https://imgur.com/2lxIu4v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
