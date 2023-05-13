@@ -70,9 +70,9 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 <b> Filter for DNS (Domain Name System) traffic</b>
 
-- Type in dns in Wireshark
-- Open Command line as an administrator and type in the nslook up for a website (ex: nslookup www.google.com)
-- Check back to observe dns traffic in Wireshark
+- (1) Type in dns in Wireshark
+- (2) Open Command line as an administrator and type in the nslook up for a website (ex: nslookup www.google.com)
+- (3) Check back to observe dns traffic in Wireshark
 
 <p>
 <img src="https://i.imgur.com/KsiNQuO.png">
@@ -82,11 +82,11 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 <b>Filter for SSH (Secure Shell) traffic </b>
 
-- Type in ssh
-- Open Powershell
-- type command: <b>ssh (username of vm)@private ip address</b>
-- That will prompt for you to put in the password
-- check back to observe ssh traffic in Wireshark
+- (1)Type in ssh
+- (2) Open Powershell
+- (3) type command: <b>ssh (username of vm)@private ip address</b>
+- (4) That will prompt for you to put in the password
+- (5) check back to observe ssh traffic in Wireshark
 
 <p>
 <img src="https://i.imgur.com/P5OasU5.png">
@@ -96,9 +96,9 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 <b> Filter for ICMP (internet Control Message Protocol) traffic </b>
 
-- Type in icmp
-- Open CMD and perpetually ping LinuxVM with the command (ping -t(private ip address)
-- Observe the constant pinging
+- (1) Type in icmp
+- (2) Open CMD and perpetually ping LinuxVM with the command (ping -t(private ip address)
+- (3) Observe the constant pinging
 
 <p> but there is NO traffic in Wireshark. It's pinging REQUEST TIMED OUT in CMD. Which means your firewall has ICMP blocked </p>
 
