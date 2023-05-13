@@ -94,7 +94,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <br />
 
 
-<b> Filter for ICMP (nternet Control Message Protocol) traffic </b>
+<b> Filter for ICMP (internet Control Message Protocol) traffic </b>
 
 - Type in icmp
 - Open CMD and perpetually ping LinuxVM with the command> ping -t(private ip address)
