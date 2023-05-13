@@ -101,6 +101,8 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 - Observe the constant pinging and the responses from LinuxVM on CMD
 - Check back to observe icmp traffic in Wireshark
 
+<It it responds with REQUEST then that means your firewall has ICMP blocked>
+
 <br />
 <p>
 <img src="https://i.imgur.com/RGR15Wg.png">
@@ -124,9 +126,9 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <br />
 
 
-<b> Observe ping request times out in CMD </b> 
+<b> Observe ping request after allowing ICMP rule </b> 
 
-<p> The ping request stops after we denied the firewall rule and blocked icmp traffic </p>
+<p> It responds with reply now and we're able to receive icmp traffic </p>
 
 <img src="https://i.imgur.com/tIMx7qw.png">
 </p>
