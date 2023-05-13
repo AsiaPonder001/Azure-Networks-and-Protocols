@@ -119,9 +119,8 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 
 <p>
-<img src=" .png">
+<img src="https://i.imgur.com/YAtHAqw.png">
 </p>
-<br />
 <br />
 
 
@@ -129,7 +128,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 <p> The ping request stops after we denied the firewall rule and blocked icmp traffic </p>
 
-<img src=" .png">
+<img src="https://i.imgur.com/tIMx7qw.png">
 </p>
 <br />
 
