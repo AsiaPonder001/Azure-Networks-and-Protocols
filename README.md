@@ -125,9 +125,10 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <br />
 
 
-3. Observe the ping request times out after the firewall rule was put in place
-(*note - The ping request timed out due to the ICMP traffic being denied as the firewall rule blocked the traffic)
-<p>
+<b> Observe ping request times out in CMD </b> 
+
+<p> The ping request times out after we denied the firewall rule and blocked icmp traffic </p>
+
 <img src="https://imgur.com/dMWGgWi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
