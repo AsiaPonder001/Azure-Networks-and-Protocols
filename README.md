@@ -103,17 +103,17 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 <br />
 <p>
-<img src=" .png">
+<img src="https://i.imgur.com/RGR15Wg.png">
 </p>
 <br />
 <br />
 
-<b>Change the Inbound firewall rule to deny ICMP traffic</b>
+<b>Change the Inbound firewall rule to allow ICMP traffic</b>
 
 <p>In the Azure Portal to go your LinuxVm > Click on Networking > Click on Add inbound security rule</p>
 
 - Select ICMP
-- Select Deny
+- Select Allow 
 - Create as 200
 - Click save
 
