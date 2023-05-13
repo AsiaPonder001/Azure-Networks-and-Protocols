@@ -41,7 +41,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 <img src="https://i.imgur.com/K79BJvW.png">
 
-<b>After logging in to the VM, navigate to Microsoft Edge and install Wireshark </b>
+<b>After logging in to the VM, navigate to Microsoft Edge and Download and install Wireshark </b>
 
 <img src="https://i.imgur.com/It0Ez7A.png">
 <p>
@@ -58,9 +58,9 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 
 <b> Filter for DHCP (Dynamic Host Control Protocol) traffic </b>
-- Type in dhcp in Wireshark
-- Open Command line as an administrator and type in the command: ipconfig/renew
-- Check back to observe Traffic in Wireshark
+(1) Type in dhcp in Wireshark
+(2) Open Command line as an administrator and type in the command: ipconfig/renew
+(3) Check back to observe Traffic in Wireshark
 
 
 <img src="https://i.imgur.com/LLUxpwa.png">
@@ -106,7 +106,6 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <p>
 <img src="https://i.imgur.com/RGR15Wg.png">
 </p>
-<br />
 <br />
 
 <b>Change the Inbound firewall rule to allow ICMP traffic</b>
