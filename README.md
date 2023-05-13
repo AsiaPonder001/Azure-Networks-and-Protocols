@@ -97,19 +97,26 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <b> Filter for ICMP (internet Control Message Protocol) traffic </b>
 
 - Type in icmp
-- Open CMD and perpetually ping LinuxVM with the command> ping -t(private ip address)
-- Obsere the constant pinging and obesrve the responses from LinuxVM on CMD
+- Open CMD and perpetually ping LinuxVM with the command (ping -t(private ip address)
+- Observe the constant pinging and the responses from LinuxVM on CMD
 - Check back to observe icmp traffic in Wireshark
 
 <br />
-1. Set the perpetual ping comand to ping VM2 and observe the ICMP traffic
 <p>
 <img src="https://imgur.com/cgRnPPG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />
 
-2. Change the Inbound firewall rule to deny ICMP traffic
+<b>Change the Inbound firewall rule to deny ICMP traffic <b>
+
+<a>In the Azure Portal to go your LinuxVm > Click on Networking > Click on Add inbound security rule</a>
+
+- Select ICMP
+- Select Deny
+- Create as 200
+- Click save
+
 
 <p>
 <img src="https://imgur.com/gKmvkuS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
