@@ -94,7 +94,13 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <br />
 
 
-Below are the steps for ICMP (nternet Control Message Protocol) traffic observation from a perpetual ping and ICMP traffic stop after the inbound firewall rule is set 
+<b> Filter for ICMP (nternet Control Message Protocol) traffic </b>
+
+- Type in icmp
+- Open CMD and perpetually ping LinuxVM with the command> ping -t(private ip address)
+- Obsere the constant pinging and obesrve the responses from LinuxVM on CMD
+- Check back to observe icmp traffic in Wireshark
+
 <br />
 1. Set the perpetual ping comand to ping VM2 and observe the ICMP traffic
 <p>
