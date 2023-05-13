@@ -43,6 +43,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 <b>After logging in to the VM, navigate to Microsoft Edge and install Wireshark </b>
 
+<img src="https://i.imgur.com/It0Ez7A.png">
 <p>
 <img src="https://imgur.com/clrmTgG.png alt"Rescource Group"/?
 </p>
