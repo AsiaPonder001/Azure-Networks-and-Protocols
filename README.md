@@ -71,7 +71,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <b> Filter for DNS (Domain Name System) traffic</b>
 
 - Type in dns in Wireshark
-- Open Command line as an administrator and type in nslook up for a website
+- Open Command line as an administrator and type in the nslook up for a website (ex: nslookup www.google.com)
 - Check back to observe traffic in Wireshark
 
 <p>
