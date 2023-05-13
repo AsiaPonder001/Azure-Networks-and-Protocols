@@ -115,7 +115,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 - Select ICMP
 - Select Allow 
 - choose 200 for priority
-- Click save
+- Click Add
 
 
 <p>
