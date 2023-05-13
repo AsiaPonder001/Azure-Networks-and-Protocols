@@ -63,7 +63,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 - Check back to observe Traffic in Wireshark
 
 
-<img src=" .png">
+<img src="https://i.imgur.com/LLUxpwa.png">
 </p>
 <br />
 
