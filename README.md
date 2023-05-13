@@ -63,7 +63,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 - Check back to observe Traffic in Wireshark
 
 
-<img src="https://imgur.com/Gi74JxZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=" .png">
 </p>
 <br />
 
@@ -75,7 +75,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 - Check back to observe dns traffic in Wireshark
 
 <p>
-<img src="https://imgur.com/NQQTI7C.png " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=" .png">
 </p>
 <br />
 
@@ -89,7 +89,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 - check back to observe ssh traffic in Wireshark
 
 <p>
-<img src="https://imgur.com/2lxIu4v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=" .png">
 </p>
 <br />
 
