@@ -56,10 +56,14 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 <img src="https://i.imgur.com/xaqENca.png">
 
+<br/>
 
-Below is DHCP (Dynamic Host Control Protocol) traffic observation using Wireshark
+<b> Filter for DHCP (Dynamic Host Control Protocol) traffic observation using Wireshark </b>
+- Type in dhcp in Wireshark
+- Open Command line as an administrator and type in the command: ipconfig/renew
+- Check back on Traffic in Wireshark
 
-<p>
+
 <img src="https://imgur.com/Gi74JxZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
