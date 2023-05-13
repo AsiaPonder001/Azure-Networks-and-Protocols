@@ -50,13 +50,9 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 </p>
 
 <h2>Protocols and Observations </h2>
-<br/>
 <b>Filter for RDP (Remote Desktop Protocol) or tcp.port==3389 traffic in the top bar</b>
 
 <img src="https://i.imgur.com/xaqENca.png">
-
-<br/>
-<p></p>
 
 <b> Filter for DHCP (Dynamic Host Control Protocol) traffic observation using Wireshark </b>
 - Type in dhcp in Wireshark
