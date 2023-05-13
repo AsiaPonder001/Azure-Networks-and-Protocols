@@ -50,12 +50,12 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 </p>
 <br /> 
 
-
 <h2>Protocols and Observations </h2>
 
-<b>Filter for RDP (Remote Desktop Protocol) traffic</b>
+<b>Filter for RDP (Remote Desktop Protocol) or tcp.port==3389 traffic in the top bar</b>
 
-<a>observation after filtering for RDP traffic in Wireshark</a>
+<img src="i.https://imgur.com/xaqENca.png">
+
 
 <p>
 <img src="https://imgur.com/CHAA6zi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
