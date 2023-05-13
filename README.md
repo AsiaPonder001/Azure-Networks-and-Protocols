@@ -48,9 +48,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <img src="i.https://imgur.com/IBt3KUh.png">
 <img src="https://i.imgur.com/7PlTD8N.png">
 </p>
-<br />
-<br />
-Now that you have logged in you can continue on to the traffic observation steps detailed below. 
+<br /> 
 
 
 <h2>Actions and Observations</h2>
