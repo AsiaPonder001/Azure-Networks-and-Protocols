@@ -89,7 +89,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 - check back to observe ssh traffic in Wireshark
 
 <p>
-<img src=" .png">
+<img src="https://i.imgur.com/P5OasU5.png">
 </p>
 <br />
 
