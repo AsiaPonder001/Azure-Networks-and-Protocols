@@ -57,7 +57,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <b> Filter for DHCP (Dynamic Host Control Protocol) traffic observation using Wireshark </b>
 - Type in dhcp in Wireshark
 - Open Command line as an administrator and type in the command: ipconfig/renew
-- Check back on Traffic in Wireshark
+- Check back to observe Traffic in Wireshark
 
 
 <img src="https://imgur.com/Gi74JxZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
