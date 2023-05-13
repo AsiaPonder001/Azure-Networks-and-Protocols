@@ -53,6 +53,9 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <b>Filter for RDP (Remote Desktop Protocol) or tcp.port==3389 traffic in the top bar</b>
 
 <img src="https://i.imgur.com/xaqENca.png">
+</p>
+<br />
+
 
 <b> Filter for DHCP (Dynamic Host Control Protocol) traffic </b>
 - Type in dhcp in Wireshark
