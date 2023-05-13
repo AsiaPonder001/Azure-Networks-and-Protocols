@@ -52,6 +52,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 
 <h2>Protocols and Observations </h2>
+
 <b>Filter for RDP (Remote Desktop Protocol) traffic</b>
 
 <a>observation after filtering for RDP traffic in Wireshark</a>
