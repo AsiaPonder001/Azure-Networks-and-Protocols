@@ -100,7 +100,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 - Open CMD and perpetually ping LinuxVM with the command (ping -t(private ip address)
 - Observe the constant pinging
 
-<p> but there is NO traffic. It's pinging request timed out. which means your firewall has ICMP blocked </p>
+<p> but there is NO traffic in Wireshark. It's pinging REQUEST TIMED OUT in CMD. Which means your firewall has ICMP blocked </p>
 
 <br />
 <p>
@@ -115,7 +115,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 - Select ICMP
 - Select Allow 
-- Create as 200
+- choose 200 for priority
 - Click save
 
 
