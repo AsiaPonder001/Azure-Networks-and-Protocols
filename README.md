@@ -54,7 +54,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 <img src="https://i.imgur.com/xaqENca.png">
 
-<b> Filter for DHCP (Dynamic Host Control Protocol) traffic observation using Wireshark </b>
+<b> Filter for DHCP (Dynamic Host Control Protocol) traffic </b>
 - Type in dhcp in Wireshark
 - Open Command line as an administrator and type in the command: ipconfig/renew
 - Check back to observe Traffic in Wireshark
@@ -65,7 +65,11 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <br />
 
 
-Below is DNS (Domain Name System) traffic observation using Wireshark
+<b> Filter for DNS (Domain Name System) traffic</b>
+
+- Type in dns in Wireshark
+- Open Command line as an administrator and type in nslook up for a website
+- Check back to observe traffic in Wireshark
 
 <p>
 <img src="https://imgur.com/NQQTI7C.png " height="80%" width="80%" alt="Disk Sanitization Steps"/>
