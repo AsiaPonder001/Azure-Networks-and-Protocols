@@ -23,7 +23,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 - Microsoft Azure Virtual Machines
 
-- Remote Desktop Protocol
+- Remote Desktop Connection
 
 - Network Protocols (SSH, RDH, DNS, ICMP, DHCP)
 
@@ -37,7 +37,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 <h2> Sign into the Windows VM </h2>
 
-<b> Copy Public ip address and paste it into the RDP connection </b>
+<b> Copy Public ip address and paste it into the Remote desktop connection </b>
 
 <img src="https://i.imgur.com/K79BJvW.png">
 
@@ -51,7 +51,7 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 <br /> 
 
 
-<h2>Actions and Observations</h2>
+<h2>Protocols and Observations </h2>
 These observations are made by inputting commands that corresond to the type of traffic one wishes to observe and then filtering Wireshark by the corresponding traffic type.
 <br />
 <br />
