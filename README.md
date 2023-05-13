@@ -52,11 +52,9 @@ Hello! In this tutorial I observe and explore several network traffic protocols 
 
 
 <h2>Protocols and Observations </h2>
-These observations are made by inputting commands that corresond to the type of traffic one wishes to observe and then filtering Wireshark by the corresponding traffic type.
-<br />
-<br />
+<b>Filter for RDP (Remote Desktop Protocol) traffic</b>
 
-Below is RDP (Remote Desktop Protocol) traffic observation after filtering for RDP traffic in Wireshark 
+<a>observation after filtering for RDP traffic in Wireshark</a>
 
 <p>
 <img src="https://imgur.com/CHAA6zi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
